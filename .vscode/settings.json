@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "env/bin/python3",
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    //"python.linting.pep8Enabled": true,
+    "python.linting.pylintPath": "/Users/satitav/Downloads/New_Project/env/bin/pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+    "[go]": {
+        "editor.formatOnSave": false
+    },
+    "python.jediEnabled": false,
+}
